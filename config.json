@@ -1,15 +1,14 @@
-[
-  {
-    "online": "20",
-    "maxonline": "1000",
-    "color": "FF0000",
-    "x2": "true",
-    "key": "1424",
-    "name": "KRANIN",
-    "firstname": "SERVER 1",
-    "secondname": "",
-    "url": "samara.blackrussia.online",
-    "ip": "188.127.241.74",
-    "port": "2539"
-  }
-]
+{
+  "online": "20",
+  "maxonline": "1000",
+  "color": "FF0000",
+  "x2": "true",
+  "key": "1424",
+  "name": "KRANIN",
+  "firstname": "SERVER 1",
+  "secondname": "",
+  "url": "samara.blackrussia.online",
+  "ip": "188.127.241.74",
+  "port": "2539"
+}
+
